@@ -1,4 +1,4 @@
 1.- Cree un repositorio en Github
 2-. Cree un carpeta basic_repo
 3.- Inice Git Bash, luego hice git init en la caperta basic_repo, depues hice gt add . para agregar los archivos, posteriomente hice git commit -m  y finalmente subi la carpeta a Github, con los comandos que la misma pagina entrega.
-4.- Agregue nuevos archivos a la carpeta basic_repo
+4.- Agregue nuevos archivos a la carpeta basic_repo hice git add . nuevamente para agregar los nuevos archios, luego un git status para verificar que todos estuvieran agregados, luego hice un segundo git commit y finanlmente un git push.
